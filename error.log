@@ -1,0 +1,31 @@
+[22-Mar-2025 10:50:30 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.helpher1' doesn't exist
+[22-Mar-2025 10:50:30 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.helpher2' doesn't exist
+[22-Mar-2025 10:51:22 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.helpher1' doesn't exist
+[22-Mar-2025 10:51:22 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.helpher2' doesn't exist
+[22-Mar-2025 10:52:05 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.helpher2' doesn't exist
+[22-Mar-2025 12:35:13 Europe/Berlin] Error in update_trip.php: Invalid request
+[22-Mar-2025 12:35:17 Europe/Berlin] Error in update_trip.php: Invalid request
+[22-Mar-2025 14:06:52 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:52 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:52 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:52 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:59 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:59 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:59 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:06:59 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:07:07 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:07:07 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:07:07 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[22-Mar-2025 14:07:07 Europe/Berlin] Error in get_dropdown_data.php: Table 'pcldb.calendar_sched' doesn't exist
+[23-Mar-2025 15:17:30 Europe/Berlin] Error in update_trip.php: Invalid request
+[23-Mar-2025 15:17:33 Europe/Berlin] Error in update_trip.php: Invalid request
+[23-Mar-2025 15:22:56 Europe/Berlin] Error in update_trip.php: Invalid request
+[23-Mar-2025 15:22:58 Europe/Berlin] Error in update_trip.php: Invalid request
+[23-Mar-2025 15:23:10 Europe/Berlin] Error in update_trip.php: Invalid request
+[25-Mar-2025 06:56:19 Europe/Berlin] Error in add_trip.php: Unknown column 'topsheet' in 'field list'
+[25-Mar-2025 06:56:23 Europe/Berlin] Error in add_trip.php: Unknown column 'topsheet' in 'field list'
+[26-Mar-2025 01:17:30 Europe/Berlin] Error in add_trip.php: Unknown column 'topsheet' in 'field list'
+[26-Mar-2025 01:19:34 Europe/Berlin] Error in add_trip.php: Unknown column 'amount' in 'field list'
+[26-Mar-2025 01:20:27 Europe/Berlin] Error in add_trip.php: Unknown column 'situation' in 'field list'
+[26-Mar-2025 10:10:12 Europe/Berlin] Error in update_trip.php: Trip not found
+[26-Mar-2025 10:10:35 Europe/Berlin] Error in update_trip.php: Trip not found
